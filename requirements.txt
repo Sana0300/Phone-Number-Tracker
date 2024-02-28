@@ -1,0 +1,15 @@
+
+# Requirments to Run the project 
+
+Python Version = 3.12.2
+
+
+# Add libraries
+
+tkinter
+phonenumbers
+
+
+# pip version for installation of libraries
+
+pip-2.0
